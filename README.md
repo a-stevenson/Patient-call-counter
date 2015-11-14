@@ -20,10 +20,10 @@ CREATE TABLE `incoming_calls` (
 SET UP
 I prefer to run the application at a distinct sub-domain for search engine indexing purposes.
 Input the correct database & phone number variables into the setting.php file and direct your Twilio number to answer calls at your.site/call-tracker.php and respond to text messages at your.site/incoming-sms.php.
-In the setting.php file, input all of the necessary variables. The other files do not need any modification unless you want to tinker.
+In the settings.php file, input all of the necessary variables. The other files do not need any modification unless you want to tinker.
 
 SMS SUPPORT
-In addition to redirecting calls, the application also forwards any sms messages to an email address and responds with a generic reply that can be configured in settings.php.
+In addition to redirecting calls, the application also forwards any sms messages it receives to your email address and responds with a generic reply that can be configured in settings.php.
 
 HTACCESS
 I have included a generic HTACCESS file that redirects anyone trying to access the root of your sub-domain. To use it you will need to input your URL and change the file name to .htaccess on your web server.
