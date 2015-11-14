@@ -1,0 +1,4 @@
+Options -Indexes
+
+Redirect /index.html https://your.site
+
