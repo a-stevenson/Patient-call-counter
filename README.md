@@ -1,5 +1,5 @@
 ABOUT
-Patient call counter works with Twilio as a simple call counter designed to allow dental practices track the effectiveness of their
+Patient call counter works with Twilio as a simple call counter designed to allow dental practices track the effectiveness of their online marketing.
 
 DATABASE REQUIREMENTS
 In addition to a Twilio account and number, you will also need access to a MySQL database to track the calls.

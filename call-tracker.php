@@ -22,4 +22,3 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n <Response><Dial>" . $office_p
 ?>
 
 
-Patient call tracker lets small businesses track who calls them from their online presences with Twilio. Find it on GitHub.
